@@ -46,7 +46,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(288, 85);
             this.label1.TabIndex = 2;
-            this.label1.Text = "FLY BGClicker\r\nVer 1.0.0.19073001\r\nProgrammed by Edward Wang\r\nLicensed under GNU " +
+            this.label1.Text = "FLY BGClicker\r\nVer 1.0.5.19073001\r\nProgrammed by Edward Wang\r\nLicensed under GNU " +
     "General Public License v3.0\r\nFLY Studio ©2011-2019 All Rights Reserved.";
             // 
             // pictureBox2
@@ -71,7 +71,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(317, 101);
+            this.button1.Location = new System.Drawing.Point(320, 101);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 5;
