@@ -47,8 +47,8 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(288, 85);
             this.label1.TabIndex = 2;
-            this.label1.Text = "FLY BGClicker\r\nVer 1.1.5.2020082201\r\nProgrammed by Edward Wang\r\nLicensed under GN" +
-    "U General Public License v3.0\r\nFLY Studio ©2011-2020 All Rights Reserved.";
+            this.label1.Text = "FLY BGClicker\r\nVer 1.1.5.20082201\r\nProgrammed by Edward Wang\r\nLicensed under GNU " +
+    "General Public License v3.0\r\nFLY Studio ©2011-2020 All Rights Reserved.";
             // 
             // btnClose
             // 
